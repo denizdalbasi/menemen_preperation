@@ -38,3 +38,8 @@ A fun, text-based Python project that simulates the full experience of cooking t
 *   **`mutfak_araclari`**
 *   **`yaninda`**
 *   **`feedback`**
+
+ # Workflow
+To view the interactive logic and user flow, visit our Miro board:
+
+[![Workflow Preview](https://img.shields.io/badge/Miro-View%20Workflow-blue?style=for-the-badge&logo=miro)](https://miro.com/app/board/uXjVHXw9tN8=/)
